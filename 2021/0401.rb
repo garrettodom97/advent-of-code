@@ -65,4 +65,4 @@ nums.each do |num|
     end
 end
 
-
+p rowsBin
